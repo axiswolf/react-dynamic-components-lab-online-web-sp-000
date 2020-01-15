@@ -4,7 +4,6 @@ import Comment from './Comment.js'
 
 export default class BlogPost extends Component {
   render() {
-    // eslint-disable-next-line
     const comments = [
       "Tell my wifi love her",
       "Ken M was here",
